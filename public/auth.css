@@ -1,0 +1,14 @@
+.auth-form input{
+    background:none;
+    border:2px solid black;
+    margin-top: 10px;
+    
+}
+.auth-form-container{
+    width: 400px;
+}
+@media (max-width: 767.98px) { 
+    .auth-form-container{
+        width: 95%;
+    }
+ }
